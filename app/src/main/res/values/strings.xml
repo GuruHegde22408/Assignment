@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Assignment</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_home_screen">Quote of the day</string>
+
+    <string name="title">Title :</string>
+    <string name="quote">Quote :</string>
+    <string name="author">Author :</string>
+    <string name="category">Category :</string>
+    <string name="id">Id :</string>
+    <string name="date">Date :</string>
+    <string name="permalink">Permalink :</string>
+    <string name="length">Length :</string>
+    <string name="background">Background :</string>
+    <string name="tags">Tags :</string>
+
+</resources>
